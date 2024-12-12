@@ -11,17 +11,17 @@ export const projectsData = [
         projectName: 'SecureAccess Advanced Multilayer Authentication',
         projectDesc: 'A cutting-edge authentication platform that enhances security through facial and gesture recognition technologies.',
         tags: ['React', 'OpenCV', 'Flask'],
-        code: '',
-        demo: 'https://www.aylanetworks.com/',
+        code: 'https://github.com/srinivaspavan73/Secure-Access',
+        demo: 'https://github.com/srinivaspavan73/Secure-Access',
         image: face
     },
     {
         id: 2,
         projectName: 'LandLink: Nationwide Online Land Marketplace',
         projectDesc: 'Revolutionizing land transactions with an online marketplace for buying and selling land properties across all states seamlessly.',
-        tags: ['React', 'MongoDB', 'Material Ui'],
-        code: 'https://github.com/said7388/jewelry-niche',
-        demo: 'https://pandora-web.netlify.app/',
+        tags: ['React', 'MongoDB'],
+        code: 'https://github.com/srinivaspavan73/Landlink',
+        demo: 'https://github.com/srinivaspavan73/Landlink',
         image: land
     },
     {
@@ -29,8 +29,8 @@ export const projectsData = [
         projectName: 'WeaveQuest: Exclusive Handloom Saree Marketplace',
         projectDesc: 'A dedicated online platform celebrating the tradition of handloom sarees, connecting artisans and enthusiasts in a vibrant marketplace.',
         tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/said7388/Travel-Agency-client',
-        demo: 'https://travel-agency-fc58b.web.app/',
+        code: 'https://github.com/srinivaspavan73/Weaver-s-Loom',
+        demo: 'https://weavers-loom.netlify.app/',
         image: handloom
     }
 ]

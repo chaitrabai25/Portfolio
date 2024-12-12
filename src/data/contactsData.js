@@ -7,6 +7,6 @@ export const contactsData = {
     linkedIn: 'https://www.linkedin.com/in/bitra-pavan-kumar-8ba067226/',
     twitter: 'https://twitter.com/srinivaspavan73',
     medium: 'https://medium.com/@abusaid-bd',
-    stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-    devUsername: "said7388"
+    // stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
+    devUsername: "Bitra"
 }
