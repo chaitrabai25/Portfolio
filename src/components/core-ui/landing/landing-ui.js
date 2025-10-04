@@ -6,7 +6,7 @@ import { headerData } from '../../../data/headerData';
 import './landing.css';
 
 import {
-    FaFacebook, FaGithub, FaLinkedin, FaTwitter, FaInstagram
+     FaGithub, FaLinkedin, FaTwitter, FaInstagram
 } from 'react-icons/fa';
 import { contactsData } from '../../../data/contactsData';
 
